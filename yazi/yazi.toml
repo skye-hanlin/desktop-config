@@ -1,0 +1,3 @@
+# ~/.config/yazi/yazi.toml
+[theme]
+path = "/usr/share/neovim-tokyonight/extras/yazi/tokyonight_moon.toml"

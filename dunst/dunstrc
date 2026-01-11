@@ -1,0 +1,35 @@
+[global]
+font = Jetbrains Nerd Font Mono 12
+width = 320
+height = (0, 400)
+origin = top-right
+offset = (10, 10)
+corner_radius = 16
+padding = 18
+horizontal_padding = 20
+frame_width = 2
+separator_color = "#b388eb"        # 柔和亮紫，如晚霞中的高光紫
+progress_bar = true
+progress_bar_height = 6
+progress_bar_corner_radius = 3
+
+# 紫色主导：深空紫背景 + 薰衣草/亮紫文字
+# 关键通知用洋红/品红强调
+
+[urgency_low]
+    background = "#1a172d"          # 极深紫黑（接近#1e1e2e但更紫）
+    foreground = "#c7a9e2"          # 柔和薰衣草紫（易读且不刺眼）
+    frame_color = "#9a7fd5"         # 中紫，边框柔和
+    timeout = 5
+
+[urgency_normal]
+    background = "#1f1c35"
+    foreground = "#c7a9e2"
+    frame_color = "#9a7fd5"
+    timeout = 5
+
+[urgency_critical]
+    background = "#2a1f40"          # 深紫红底，营造紧迫感
+    foreground = "#ff75b5"          # 亮品红（比红色更紫），突出但不突兀
+    frame_color = "#ff75b5"
+    timeout = 10
