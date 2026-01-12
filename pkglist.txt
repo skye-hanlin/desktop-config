@@ -36,7 +36,7 @@ man-pages 6.16-1
 mariadb 12.1.2-1
 maven 3.9.12-1
 mpvpaper 1.8-1
-neovim-tokyonight 4.11.0-1
+neovim-catppuccin 1.11.0-1
 noto-fonts-emoji 1:2.051-1
 nvidia-open 590.48.01-6
 nvtop 3.2.0-1
