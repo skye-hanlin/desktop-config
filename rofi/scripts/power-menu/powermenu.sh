@@ -10,7 +10,7 @@
 ## style-1   style-2   style-3   style-4   style-5
 
 # Current Theme
-dir="/home/skye/.config/waybar/scripts/power-menu/"
+dir="/home/skye/.config/rofi/scripts/power-menu/"
 theme='style-4'
 
 # CMDs

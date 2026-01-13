@@ -14,4 +14,4 @@ vim.opt.expandtab = true
 vim.cmd("autocmd VimEnter * hi Normal guibg=NONE")
 
 -- 使用catppuccin主题
- vim.cmd("colorscheme catppuccin-macchiato")
+ vim.cmd("colorscheme catppuccin-mocha")

@@ -1,1 +1,5 @@
 @theme "/usr/share/rofi/themes/rounded-purple-dark.rasi"
+
+* {
+    font: "JetBrains Mono Nerd Font 14";
+}
