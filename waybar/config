@@ -46,7 +46,7 @@
     "format-alt": "<span foreground='#b69bf1'>󰃭 </span><span>{:%I:%M %p %a %d}</span>",
     "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
   },
-  
+
   "backlight": {
     "device": "amdgpu_b10",
     "format": "<span color='#d9b172'>{icon}</span> {percent}%",
@@ -80,7 +80,7 @@
   },
   
   "disk": {
-    "format": "<span foreground=\"#68b0d6\"></span> {}%",
+    "format": "<span foreground=\"#68b0d6\"></span> {used}/{total}",
     "interval": 30,
     "tooltip": false
   },
